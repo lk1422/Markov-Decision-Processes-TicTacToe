@@ -1,4 +1,6 @@
 # MDPTicTacToe
 Using Markov Decision Processes in order to find optimal moves in tic tac toe.
-Currently Only Produces Optimal Moves when playing as X
+TODO:
+  Fix play.cpp (only makes optimal moves when going first)
+  Fix play.cpp (Only Checks for wins not for ties)
 
